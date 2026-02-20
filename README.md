@@ -1,2 +1,2 @@
-# EVE-Market-Analyzer
+# EvE Trading Asistent
 EVE Online Trading Tool
